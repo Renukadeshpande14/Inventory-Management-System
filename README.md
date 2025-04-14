@@ -3,7 +3,7 @@
 	<img src="images/screenshot2.png" width="49%">
 </div>
 
-# Inventory Management System With Python
+# Inventory Management System 
 
 I have developed a GUI application for desktop made using Tkinter to manage product inventory. 
 You can 
