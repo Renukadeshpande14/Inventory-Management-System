@@ -30,9 +30,4 @@ It accepts data into the following fields, from the user:
 - **Tkinter**   | library for creating graphical user interfaces (GUIs) in Python. https://realpython.com/python-gui-tkinter/
 - **ttkthemes** | third-party library that provides additional themes and styles for the Tkinter library https://ttkthemes.readthedocs.io/en/latest/index.html
 
-### Changelog v1.0 - 27.12.22
-#### First Commit
-- Main program created
 
-### Alert
-İf you are not a developer, u can t open the application for now!
